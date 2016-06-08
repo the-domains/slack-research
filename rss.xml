@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Slack Research]]></title>
+        <description><![CDATA[Slack Research]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 22:19:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Slack Reflects the Values of Organization Development]]></title>
+            <description><![CDATA[<article><h1>How Slack Reflects the Values of Organization Development</h1><p>How Slack Reflects the Values of Organization Development Zachary D. Winter Sonoma State University Abstract The purpose of this research is to identify the ways that the enterprise software platform Slack mirrors the core values of Organization Development. A phenomenological research approach is used to study the experience of Slack users, and the effects its implementation has on the organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3731482e6c908e76927ec68f6a3e7786d7d5447.jpg"></article>]]></description>
+            <link>http://zachwinter.co/blog/2016/5/13/how-slack-reflects-the-values-of-organization-development</link>
+            <guid isPermaLink="false">77e4228e-036a-4205-abd2-b6fc63b30f69</guid>
+            <pubDate>Wed, 08 Jun 2016 22:19:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
