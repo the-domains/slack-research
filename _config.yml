@@ -1,6 +1,6 @@
 name: Slack Research
 favicon: null
-layout_spectrum: 0.50131
+layout_spectrum: 0.25067
 typography_spectrum: 0.36843702499754727
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#d70e62'
     - '#e2a700'
     - '#35103a'
-  brandStrength: 0.8744452542159706
+  brandStrength: 1
   lightness: 0.1720612004864961
   saturation: 0.4482265254482627
   rhythmicContrast: 0.3037428199313581
