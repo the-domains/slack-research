@@ -4,8 +4,15 @@
         <description><![CDATA[Slack Research]]></description>
         <link>https://thegrid.ai/slack-research/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 18:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 23:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/slack-research/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Slack Reflects the Values of Organization Development]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b2b378a-297a-45c2-819b-4dd6a119d99d.png">]]></description>
+            <link>http://zachwinter.co/blog/2016/5/13/how-slack-reflects-the-values-of-organization-development</link>
+            <guid isPermaLink="false">77e4228e-036a-4205-abd2-b6fc63b30f69</guid>
+            <pubDate>Thu, 09 Jun 2016 23:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Productive teams everywhere are using this bot... (including Slack) - letters from slash-hyphen]]></title>
             <description><![CDATA[<article><h1>Productive teams everywhere are using this bot... (including Slack) - letters from slash-hyphen</h1><p>A bot that creates visibility into an organization's KPIs is transformative. The team at Slack has developed a bot based approach that changes the way their employees look at the business. Slack employees tell me that understanding movements in their metrics has a big impact on their sense of ownership.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0594516b3b320cda58c278177171543d0791dbfc.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What Slack is doing to our offices-and our minds</h1><p>Walking into the Slack offices in downtown San Francisco feels like walking into a Slack channel online. Brightly colored sofas in the shape of hashtags fill the shared spaces, surrounded by a comfortable margin of airy whitespace. As company rep Katie Wattie leads me around, I realize that every conference room is named after an emoji.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdacf140d371c6460ee0759163dc2cc8c96db8a1.jpg"></article>]]></description>
             <link>http://arstechnica.com/information-technology/2016/03/what-slack-is-doing-to-our-offices-and-our-minds/</link>
             <guid isPermaLink="false">2e980a44-9964-4b08-bfcd-990f79810b79</guid>
-            <pubDate>Wed, 08 Jun 2016 22:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Conservatism of Emoji]]></title>
-            <description><![CDATA[<article><h1>The Conservatism of Emoji</h1><p>Emoji offer you new possibilities for digital expression, but only if you're speaking their language If you smile through your fear and sorrow Smile and maybe tomorrow You'll see the sun come shining through for you -Nat King Cole, "Smile" The world will soon have its first emoji-only social network: Emoj.li.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cc5d01de073d3896403f733df89e6c716af1f9f.png"></article>]]></description>
-            <link>http://thenewinquiry.com/essays/the-conservatism-of-emoji/</link>
-            <guid isPermaLink="false">55177e24-af9a-490c-b111-b2e852244243</guid>
             <pubDate>Wed, 08 Jun 2016 22:38:53 GMT</pubDate>
         </item>
     </channel>
