@@ -17,12 +17,11 @@ keywords:
   - values
   - effectively
 description: ''
-datePublished: '2016-06-09T23:31:21.906Z'
-dateModified: '2016-06-09T23:31:16.279Z'
+datePublished: '2016-06-09T23:45:22.338Z'
+dateModified: '2016-06-09T23:44:59.823Z'
 author:
-  - name: Zach Winter
-    url: 'http://zachwinter.co/blog/?author=5473be01e4b048fa7eef19e0'
-    avatar: {}
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: ''
